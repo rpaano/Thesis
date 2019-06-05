@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpeechToSignLanguage_v2</string>
+    <string name="play">play</string>
+    <string name="enter">Enter Phrase</string>
+    <string name="title_activity_camera">camera</string>
+    <string name="x">X</string>
+    <string name="marvin_kao">Marvin Kao</string>
+    <string name="romel_ni_o_paano">Romel Niño Paano</string>
+    <string name="item_1">Item 1</string>
+    <string name="show_popup">show popup</string>
+    <string name="julius_urot">Julius Urot</string>
+    <string name="urot_julius_d">Urot Julius D. - </string>
+    <string name="writer_researcher_and_designer"> Researcher and Designer</string>
+    <string name="paano_romel_ni_o_o">Paano, Romel Niño O. - </string>
+    <string name="designer_lead_programmer_and_researcher"> Designer and Lead Programmer</string>
+    <string name="kao_marvin_u">Kao, Marvin U. - </string>
+    <string name="lead_researcher_and_programmer">Lead Researcher and Programmer</string>
+</resources>
